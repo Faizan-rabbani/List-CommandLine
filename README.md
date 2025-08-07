@@ -41,6 +41,7 @@ Handles inaccessible files using try/catch so that one error doesn't crash the s
 ## 🛠️ Technologies Used
 
 Node.js (v22+)
+
 chalk
 
 ## 📄 License
