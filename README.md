@@ -26,9 +26,10 @@ Skipped: DumpStack.log.tmp (Permission denied) ⚠️ (yellow)
 ```bash
 npm install chalk
   ```
-## Run the script
+### 3. Run the script
 
 nls [optional_path] 
+
 If no path is provided, it defaults to the current working directory.
 
 ## 🧠 How It Works
